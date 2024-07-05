@@ -1,4 +1,4 @@
-   QUESTION 1:  ...............................
+   1:  ...............................
 
 javac StructData.java
 java  StructData
@@ -10,7 +10,7 @@ Cons: Unlike in C, where structs can have member functions and pointers to struc
 
 
 
-     QUESTION 2:    ................................
+     2:    ................................
 
 simply run the code by
 
@@ -21,7 +21,7 @@ The Java version of enums provides type safety and convenience, ensuring compile
 
 
 
-QUESTION  3:  ...............................................
+ 3:  ...............................................
 
 simply run the code terminal as
 
